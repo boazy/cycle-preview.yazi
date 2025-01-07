@@ -1,0 +1,8 @@
+{
+    "diagnostics.globals": [
+        "Tab",
+        "MANAGER",
+        "ui",
+        "ya"
+    ]
+}
